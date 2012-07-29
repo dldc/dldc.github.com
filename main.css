@@ -1,0 +1,4 @@
+html { font: 26px/1.4 Arial; }
+body { width: 800px; margin: 0 auto; }
+a { text-decoration: none; border-bottom: 1px solid #aaa; color: #000; padding: 1px; }
+ a:hover, a:focus { border-color: #000; background: #eee; }
